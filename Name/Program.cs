@@ -1,3 +1,4 @@
-﻿string Name = "Dominic Braun";
-int Alter = 17;
-Console.WriteLine(Name + Alter);
+﻿string Name = "Dominic";
+string NachName = "Braun";
+string Alter = "17";
+Console.WriteLine(Name + NachName + Alter);
