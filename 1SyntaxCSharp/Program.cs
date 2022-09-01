@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Test")
+﻿
+string Name = "Eric Kisthardt";
+int Alter =  19;
+    Console.WriteLine (Name+Alter);
